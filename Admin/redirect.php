@@ -1,0 +1,9 @@
+<?php 
+session_start();
+ob_start();
+if(!isset($_SESSION['email']))
+{
+    header("location:index.php");
+    exit(0);
+}
+?>
