@@ -1,1 +1,1 @@
-# BloodBuzz
+BloodBuzz is a simple web application that helps connect blood donors and recipients. I built this project to make it easier for people to find blood in emergency situations — something I felt was missing in many communities.
